@@ -1,0 +1,7 @@
+.btns button{
+  transition: ease-in-out 0.2s;
+}
+
+.btns button:hover{
+  color: aquamarine;
+}
